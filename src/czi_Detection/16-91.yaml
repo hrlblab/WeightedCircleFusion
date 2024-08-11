@@ -1,0 +1,23 @@
+czi_file: "/data/CircleNet/data/new_data_for_miccai_paper/czi/7-Mark_AKI_202212/BMS_IRI1_1.czi"
+
+det_lv: 3
+
+lv0:
+  path: "/data3/mouse_glo_patch/test/tiff/16-91_series0.tiff"
+  down_rate: 0
+
+lv2:
+  path: "/data/CircleNet/data/new_data_for_miccai_paper/czi/7-Mark_AKI_202212/7-Mark_tiff/BMS_IRI1_1_series2.tiff"
+  down_rate: 4
+  
+lv3:
+  path: "/data3/mouse_glo_patch/test/tiff/16-91_series3.tiff"
+  down_rate: 8
+
+lv4:
+  path: "/data3/mouse_glo_patch/test/tiff/16-91_series4.tiff"
+  down_rate: 16
+
+Pixel_width: 0.1109
+
+Pixel_height: 0.1109
