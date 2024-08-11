@@ -6,6 +6,8 @@ python /data/CircleNet/src/run_detection_for_scn.py circledet --circle_fusion --
 demo is the path to the WSI images that you want to process. load_model_dir is the path to your models' folder. demo_dir is where your result finally generate. gt_dir is the path to your ground truths,which are xml files here.
 You can set them anywhere in your computer.
 
+
+# CircleFusion demo
 For testing the code，you can use the WSIs and ground truth here：
 [circle_fusion_test](https://vanderbilt.box.com/s/qnnyo7ai97q9e7do6htc1rg6kcabqnlh)
 
